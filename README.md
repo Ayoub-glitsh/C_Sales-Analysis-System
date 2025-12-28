@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Sales+Analysis+System;Built+with+C;Monthly+Sales+Data+Analysis" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=boutghanimt%20😆&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</p>
-
-
 
 # 📊 Sales Analysis System
 
@@ -47,10 +42,18 @@ gcc analyse_ventes.c -o sales_analysis
 6. Display sorted results
 
 ## 📁 Project Structure
+```
 sales-analysis/
 ├── analyse_ventes.c
 ├── README.md
-└── .gitignore
-
+```
 ## 📜 License
 Open source — free to use, modify, and distribute.
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=boutghanimt%20😆&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
+
+
